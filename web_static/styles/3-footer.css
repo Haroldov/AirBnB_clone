@@ -11,3 +11,9 @@ footer {
 p {
     margin: auto;
 }
+
+html {
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 2.5rem;
+}
