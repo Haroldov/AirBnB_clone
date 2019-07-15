@@ -67,6 +67,7 @@
 
 .container .filters * .popover {
     display: none;
+    z-index: 1;
     position: relative;
     list-style-type: none;
     background: #FAFAFA;
